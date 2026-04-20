@@ -2,7 +2,7 @@
 
 git init
 
-git add README.md
+git add -A
 
 git commit -m "first commit"
 
